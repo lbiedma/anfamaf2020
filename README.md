@@ -8,3 +8,5 @@ Clases virtuales dadas durante el cursado:
 07/04/2020: https://www.youtube.com/watch?v=mZFrklFSQLw
 
 21/04/2020: https://www.youtube.com/watch?v=VX15ur-i2tI
+
+24/04/2020: https://www.youtube.com/watch?v=QmM8kdFrfoA
