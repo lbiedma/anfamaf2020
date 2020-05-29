@@ -21,3 +21,5 @@ Clases virtuales dadas durante el cursado:
 
 19/05/2020 (Regla de Simpson, sustitución para integrales elípticas): https://www.youtube.com/watch?v=lBy45p_sLIE
 			LaTex con detalles de la sustitución: https://www.overleaf.com/read/qgkjccyxcpct
+
+26/05/2020 (Integración numérica, intro a Numpy, laboratorio 6): https://www.youtube.com/watch?v=432oNFXMrns
