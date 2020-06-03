@@ -23,3 +23,5 @@ Clases virtuales dadas durante el cursado:
 			LaTex con detalles de la sustitución: https://www.overleaf.com/read/qgkjccyxcpct
 
 26/05/2020 (Integración numérica, intro a Numpy, laboratorio 6): https://www.youtube.com/watch?v=432oNFXMrns
+
+02/06/2020 (Eliminación Gaussiana, Métodos Iterativos): https://www.youtube.com/watch?v=iU7FUNeVxV8
