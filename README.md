@@ -3,7 +3,7 @@ Repositorio de la materia Análisis Numérico I / Análisis Numérico de FAMAF (
 
 Clases virtuales dadas durante el cursado:
 
-03/04/2020 (Laboratorio 1 Ej 3-7-8-9, Laboratorio 3 Ej 1-2-3-7): https://www.youtube.com/watch?v=aLxVSg7eSMQ
+03/04/2020 (Laboratorio 1 Ej 3-7-8-9, Laboratorio 2 Ej 1-2-3-7): https://www.youtube.com/watch?v=aLxVSg7eSMQ
 
 07/04/2020 (Laboratorio 1 Ej 4-5-6, Laboratorio 2 Ej 5-6): https://www.youtube.com/watch?v=mZFrklFSQLw
 
