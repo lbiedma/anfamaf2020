@@ -25,3 +25,5 @@ Clases virtuales dadas durante el cursado:
 26/05/2020 (Integración numérica, intro a Numpy, laboratorio 6): https://www.youtube.com/watch?v=432oNFXMrns
 
 02/06/2020 (Eliminación Gaussiana, Métodos Iterativos): https://www.youtube.com/watch?v=iU7FUNeVxV8
+
+09/06/2020 (Programación Lineal, Ejercicios 1 y 3 del laboratorio 7): https://www.youtube.com/watch?v=Uuqewqh_J-8
