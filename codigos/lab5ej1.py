@@ -4,8 +4,14 @@ import numpy as np
 def intenumcomp(fun, a, b, N, regla):
     S = None
     if regla == "pm":
-        # Programar punto medio
-        pass
+        puntos = N + 1
+        particion = np.linspace(a, b, puntos)
+        S = 0.0
+        h = (b - a) / N
+        for idx in range(puntos):
+            S = S + (fun((a + h * idx) + (h / 2)))
+        S = S * h
+        
     elif regla == "trapecio":
         puntos = N + 1
         particion = np.linspace(a, b, puntos)
